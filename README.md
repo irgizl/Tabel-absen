@@ -4,4 +4,4 @@
 **_<p>Mata Kuliah : Pemograman Mobile 2</p>_**
 
 > Click **_[Here](https://documenter.getpostman.com/view/19500855/2s93Juv3wB)_**
-> Click **_[Here](https://irgizl.github.io/tabel-absen/)_**
+> Click **_[Here](https://github.com/irgizl/Tabel-absen.git/)_**
